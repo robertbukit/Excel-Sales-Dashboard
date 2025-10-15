@@ -1,6 +1,4 @@
 # Excel-Sales-Dashboard
-I developed a comprehensive project in Excel, creating a dashboard from multiple dataset. This process involved several stages, including  data preprocessing, data cleaning, data visualization, etc.
-
 
 ### Problem Statement
 Sebuah perusahaan ritel global ingin mengembangkan dashboard analisis penjualan mereka. Pendekatan untuk analisis data penjualan saat ini kurang mendalam dan interaktif, memperlambat kinerja untuk mendapat insight dan analisis serta keputusan bisnis mereka. Metode laporan dalam bentuk konvensional/tradisional masih gagal dalam memberikan pandangan komprehensif metrik penjualan. Hal ini memaksakan untuk membuat analisis dashboard untuk membuka boundary dan memaksimalkan potensial penjualan mereka.
